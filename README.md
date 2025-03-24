@@ -1,6 +1,6 @@
 # ENE331_LAB01
 
-## Objective
+## 🔍Objective
 To implement an embedded system on STM32F411 using **register configuration only** that includes:
 
 - LED blinking every 1.2 ms
@@ -9,7 +9,7 @@ To implement an embedded system on STM32F411 using **register configuration only
 - Timer2 output 20 µs pulse at PB10
 - Independent operation of each function
 
-## Hardware
+## 💡Hardware
 - STM32F411CEU6 (BlackPill board)
 - Tactile pushbutton
 - 3x LEDs for PA1–PA3
