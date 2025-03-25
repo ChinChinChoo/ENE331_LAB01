@@ -1,4 +1,4 @@
-# ENE331_LAB01
+![image](https://github.com/user-attachments/assets/00d6eed2-f060-43e1-b3aa-20b7500cb3e1)# ENE331_LAB01
 
 ## 🔍Objective
 To implement an embedded system on STM32F411 using **register configuration only** that includes:
@@ -16,7 +16,9 @@ To implement an embedded system on STM32F411 using **register configuration only
 - 1x LED for PA6
 - Oscilloscope for PB10 signal
 ---
-65070502414
-65070502422
-65070502507
+## Member
+- 65070502414
+- 65070502422
+- 65070502507
 
+![image](https://github.com/user-attachments/assets/8ad1221b-76bb-49c7-97c3-feec268b9499)
