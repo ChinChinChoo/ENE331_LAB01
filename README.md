@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/00d6eed2-f060-43e1-b3aa-20b7500cb3e1)# ENE331_LAB01
+# ENE331_LAB01
 
 ## 🔍Objective
 To implement an embedded system on STM32F411 using **register configuration only** that includes:
